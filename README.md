@@ -1,6 +1,6 @@
 # Bora Codar
 
-![preview](./.github/preview.png)]
+![preview](./.github/preview.png)
 
 > Bora Codar - Chat 
 
